@@ -100,7 +100,16 @@ textarea {
 /* ##########################   SMARTPHONE   ########################### */
 /* ##################################################################### */
 /* Extra small devices (phones, less than 768px) */
-
+.bg{
+  background-image: url(../img/bg1.jpg);
+  height:650px;
+  background-size: cover;
+  background-position: top center;
+  position: relative;
+}
+.ovr{
+  background-color: rgba(33, 40, 45, 0.8);
+}
 
 
 /* ##################################################################### */
